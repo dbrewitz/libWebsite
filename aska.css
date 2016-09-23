@@ -252,7 +252,7 @@
 /*This screen is displayed when the user wants to add their email to the chat session, if previously not entered*/
 
 /*Sets the background color for the Add email overlay*/
-.qp_email_form{
+.qp_email_form{ 
     background-color: #80a4b1;
 }
 
